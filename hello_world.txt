@@ -1,1 +1,2 @@
 hello, world!
+I now use visual studio code to type commmit messages!
